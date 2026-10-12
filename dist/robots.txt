@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://token-signal.pages.dev/sitemap.xml
